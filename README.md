@@ -10,3 +10,4 @@
 
 - Introduction to DevOps
 - Git basics and commands
+- Introduction to Virtualization
